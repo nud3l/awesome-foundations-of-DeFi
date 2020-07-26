@@ -10,6 +10,13 @@ An Awesome list for resources on the foundations of Decentralized Finance (DeFi)
 - [Improved Price Oracles: Constant Function Market Makers](https://arxiv.org/pdf/2003.10001.pdf)
 - [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2003.10001.pdf)
 
+
+### Attacks
+
+- [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf)
+- [The Decentralized Financial Crisis: Attacking DeFi](https://arxiv.org/pdf/2002.08099.pdf)
+- [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://arxiv.org/pdf/2003.03810.pdf)
+
 ## Courses and Lecture Notes
 - [Incentives in Computer Science: Prediction Markets](http://timroughgarden.org/f16/l/l18.pdf)
 
